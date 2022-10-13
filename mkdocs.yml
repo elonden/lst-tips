@@ -1,5 +1,10 @@
 site_name: Troubleshooting Linux Storage Tips, Tricks and Updates
 theme: readthedocs
+markdown-extensions:
+  - smarty
+  - toc:
+      permalink: true
+      separator: "-"
 nav:
   - 'index.md'
   - 'Ch 1 -  Introduction': 'chap-01-Introduction.md'
