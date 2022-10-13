@@ -1,2 +1,5 @@
 site_name: Troubleshooting Linux Storage Tips, Tricks and Updates
 theme: readthedocs
+nav:
+  - 'index.md'
+  - 'Troubleshooting Linux Storage on Amazon ': 'https://amzn.to/3MpWnQS'
