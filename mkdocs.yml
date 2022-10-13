@@ -5,20 +5,22 @@ markdown-extensions:
   - toc:
       permalink: true
       separator: "-"
-nav:
-  - 'index.md'
-  - 'Ch 1 -  Introduction': 'chap-01-Introduction.md'
-  - 'Ch 2 -  Applications': 'chap-02-applications.md'
-  - 'Ch 3 -  Filesystems': 'chap-03-filesystems.md'
-  - 'Ch 4 -  Encryption': 'chap-04-encryption.md'
-  - 'Ch 5 -  Partitions': 'chap-05-partitions.md'
-  - 'Ch 6 -  Volume managers': 'chap-06-volumemanagers.md'
-  - 'Ch 7 -  Raid': 'chap-07-raid.md'
-  - 'Ch 8 -  Block devices': 'chap-08-blockdevices.md'
-  - 'Ch 9 -  Schedulers': 'chap-09-schedulers.md'
-  - 'Ch 10 - Protocols': 'chap-10-protocols.md'
-  - 'Ch 11 - MPIO': 'chap-11-mpio.md'
-  - 'Ch 12 - Vendors': 'chap-80-vendor.md'
-
-
+  - sane_lists
+  - fenced_code
+#nav:
+#  - 'index.md'
+#  - 'Ch 1 -  Introduction': 'chap-01-Introduction.md'
+#  - 'Ch 2 -  Applications': 'chap-02-applications.md'
+#  - 'Ch 3 -  Filesystems': 'chap-03-filesystems.md'
+#  - 'Ch 4 -  Encryption': 'chap-04-encryption.md'
+#  - 'Ch 5 -  Partitions': 'chap-05-partitions.md'
+#  - 'Ch 6 -  Volume managers': 'chap-06-volumemanagers.md'
+#  - 'Ch 7 -  Raid': 'chap-07-raid.md'
+#  - 'Ch 8 -  Block devices': 'chap-08-blockdevices.md'
+#  - 'Ch 9 -  Schedulers': 'chap-09-schedulers.md'
+#  - 'Ch 10 - Protocols': 'chap-10-protocols.md'
+#  - 'Ch 11 - MPIO': 'chap-11-mpio.md'
+#  - 'Ch 12 - Vendors': 'chap-80-vendor.md'
+#
+#
   - 'Troubleshooting Linux Storage on Amazon ': 'https://amzn.to/3MpWnQS'
