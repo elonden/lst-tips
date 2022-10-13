@@ -2,4 +2,18 @@ site_name: Troubleshooting Linux Storage Tips, Tricks and Updates
 theme: readthedocs
 nav:
   - 'index.md'
+  - 'Chapter 1': 'chap-01-Introduction.md'
+  - 'Chapter 2': 'chap-02-applications.md'
+  - 'Chapter 3': 'chap-03-filesystems.md'
+  - 'Chapter 4': 'chap-04-encryption.md'
+  - 'Chapter 5': 'chap-05-partitions.md'
+  - 'Chapter 6': 'chap-06-volumemanagers.md'
+  - 'Chapter 7': 'chap-07-raid.md'
+  - 'Chapter 8': 'chap-08-blockdevices.md'
+  - 'Chapter 9': 'chap-09-schedulers.md'
+  - 'Chapter 10': 'chap-10-protocols.md'
+  - 'Chapter 11': 'chap-11-mpio.md'
+  - 'Chapter 12': 'chap-80-vendor.md'
+
+
   - 'Troubleshooting Linux Storage on Amazon ': 'https://amzn.to/3MpWnQS'
