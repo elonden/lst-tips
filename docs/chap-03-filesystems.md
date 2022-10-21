@@ -16,4 +16,4 @@ Caching and the barrier/nobarrier option for write-cache enabled volumes.
 [    4.033598] sd 4:0:0:0: [sdd] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
 [    4.035569] sd 5:0:0:0: [sde] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
 
-Expand on XFS and ZFS
+Expand on XFS and ZFS (ZFS only in summary as it is limited to bsd style systems)
