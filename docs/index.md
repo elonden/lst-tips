@@ -6,7 +6,7 @@ The paperback version can be obtained on [Amazon](https://amzn.to/3MpWnQS) and t
 
 If/when you have any comments/requests please submit them via my contact form on my [website](https://erwinvanlonden.net/contact-me/)
 
-Another way is sending an email to `lst at erwinvanlonden dot net`.
+Another way is sending an email to `erwin at erwinvanlonden dot net`.
 
 ---
 
